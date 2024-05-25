@@ -13,7 +13,6 @@
 
 - 📫 How to reach me **contact@molaraiche.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1SjGbhOMZVcID2NVX41QIVGvKA5G-BCd95l4zrEg0P68/edit?usp=sharing](https://docs.google.com/document/d/1SjGbhOMZVcID2NVX41QIVGvKA5G-BCd95l4zrEg0P68/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
