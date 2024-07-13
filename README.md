@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.molaraiche.com/](https://www.molaraiche.com/)
 
-- 💬 Ask me about **React and JavaScript**
+- 💬 Ask me about ** Frontend Developement in general and React/Next in specefic **
 
 - 📫 How to reach me **laraichemohamed@gmail.com**
 
