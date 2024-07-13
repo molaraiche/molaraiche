@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohamed Laraiche</h1>
-<h3 align="center">A frontend developer from Morocco</h3>
+<h3 align="center">A frontend developer from Morocco ![Moroccan Flag](https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg)
+ </h3>
 
 
 - 🌱 I’m currently learning ** Next.js and Tailwind**
