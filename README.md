@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/molaraiche" target="blank"><img src="https://img.shields.io/twitter/follow/molaraiche?logo=twitter&style=for-the-badge" alt="molaraiche" /></a> </p>
 
-- 🌱 I’m currently learning **UI/UX Design, Next.js, typescript and Tailwind**
+- 🌱 I’m currently learning ** Next.js and Tailwind**
 
 - 👨‍💻 All of my projects are available at [https://www.molaraiche.com/](https://www.molaraiche.com/)
 
 - 💬 Ask me about **React and JavaScript**
 
-- 📫 How to reach me **contact@molaraiche.com**
+- 📫 How to reach me **laraichemohamed@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
