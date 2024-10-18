@@ -9,3 +9,6 @@
 - 📫 How to reach me **laraichemohamed@gmail.com**
 
 ![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=molaraiche&theme=github_dark&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=molaraiche&theme=tokyonight)
