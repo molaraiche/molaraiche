@@ -8,3 +8,4 @@
 
 - 📫 How to reach me **laraichemohamed@gmail.com**
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=molaraiche&theme=github_dark&show_icons=true)
