@@ -1,10 +1,8 @@
 # Hi, I'm Mohamed ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently Looking for opportunities as a Frontend Developer ( Next.js)
+🔭 I’m currently Looking for opportunities as a Frontend Developer ( Next.js/React.js)
 
 👯 I’m looking to collaborate on open source/commercial projects
-
-🤔 I’m looking for help with digital marketing to drive traffic to my website
 
 💬 Ask me about **Frontend Development**
 
