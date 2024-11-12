@@ -2,8 +2,6 @@
 
 🔭 I’m currently Looking for opportunities as a Frontend Developer ( Next.js/React.js)
 
-👯 I’m looking to collaborate on open source/commercial projects
-
 💬 Ask me about **Frontend Development**
 
 📫 How to reach me: **[Twitter](https://twitter.com/molaraiche), [Instagram](https://instagram.com/molaraiche)**
