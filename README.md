@@ -1,10 +1,10 @@
 # Hi, I'm Mohamed ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently Looking for opportunities as a Frontend Developer ( Next.js/React.js)
+🔭 I’m currently Looking for opportunities as a Web Developer ( MERN)
 
-💬 Ask me about **Frontend Development**
+💬 Ask me about **MERN Development**
 
-📫 How to reach me: **[Twitter](https://twitter.com/molaraiche), [Instagram](https://instagram.com/molaraiche)**
+📫 How to reach me: [Portfolio](https://molaraiche.com/)**  **[Twitter](https://twitter.com/molaraiche), [Instagram](https://instagram.com/molaraiche)** 
 
 ## My Skills - Technologies I use
 
