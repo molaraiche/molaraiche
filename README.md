@@ -1,8 +1,8 @@
 # Hi, I'm Mohamed ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
-🔭 I’m currently Looking for opportunities as a Web Developer ( MERN)
+🔭 I’m currently Looking for opportunities as a Frontend Developer
 
-💬 Ask me about **MERN Development**
+💬 Ask me about **Frontend Development**
 
 📫 How to reach me: [Portfolio](https://molaraiche.com/)  **[Twitter](https://twitter.com/molaraiche), [Instagram](https://instagram.com/molaraiche)** 
 
@@ -25,4 +25,4 @@
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohamedlaraiche/)
 [![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/molaraiche/)
-[![twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/molaraiche)
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/molaraiche)
