@@ -4,7 +4,7 @@
 
 💬 Ask me about **Frontend Development**
 
-📫 How to reach me: **[molaraiche - Portfolio](https://molaraiche.com/)**  **[Twitter](https://twitter.com/molaraiche)**
+📫 How to reach me: **[molaraiche - Portfolio](https://molaraiche.com/)**  |  **[Twitter](https://twitter.com/molaraiche)**
 
 ## My Skills - Technologies I use
 
