@@ -1,15 +1,15 @@
-# Hi, I'm Mohamed ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+# Hi, I'm Mohamed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
 
 🔭 I’m currently Looking for opportunities as a Frontend Developer
 
 💬 Ask me about **Frontend Development**
 
-📫 How to reach me: [Portfolio](https://molaraiche.com/)  **[Twitter](https://twitter.com/molaraiche), [Instagram](https://instagram.com/molaraiche)** 
+📫 How to reach me: **[molaraiche - Portfolio](https://molaraiche.com/)**  **[Twitter](https://twitter.com/molaraiche)**
 
 ## My Skills - Technologies I use
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,nodejs,expressjs,mongodb,git,github,vercel,netlify)
-![My Skills](https://skillicons.dev/icons?i=html,css,firebase,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,git,github)
+![My Skills](https://skillicons.dev/icons?i=html,css,firebase,vscode)
 
 ## 🏆 Github Status
 
@@ -24,5 +24,4 @@
 ## Connect with me:
 
 [![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohamedlaraiche/)
-[![instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/molaraiche/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/molaraiche)
