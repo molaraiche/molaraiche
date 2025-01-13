@@ -1,27 +1,19 @@
-# Hi, I'm Mohamed! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
+<h1 align="center">Hi 👋, I'm Mohamed</h1>
+<h3 align="center">A Frontend Developer</h3>
 
-🔭 I’m currently Looking for opportunities as a Frontend Developer
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=molaraiche&label=Profile%20views&color=0e75b6&style=flat" alt="molaraiche" /> </p>
 
-💬 Ask me about **Frontend Development**
+- 👨‍💻 All of my projects are available at [https://www.molaraiche.com/](https://www.molaraiche.com/)
 
-📫 How to reach me: **[molaraiche - Portfolio](https://molaraiche.com/)**  |  **[Twitter](https://twitter.com/molaraiche)**
+- 💬 Ask me about **Next.js, React.js**
 
-## My Skills - Technologies I use
+- 📫 How to reach me **laraichemohamed@gmail.com**
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,next,redux,tailwind,materialui,git,github)
-![My Skills](https://skillicons.dev/icons?i=html,css,firebase,vscode)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/molaraiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="molaraiche" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohamedlaraiche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedlaraiche" height="30" width="40" /></a>
+</p>
 
-## 🏆 Github Status
-
-<img  src="https://github-stats-lemon.vercel.app/api?username=molaraiche&show_icons=true&hide_border=true&theme=tokyonight" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=molaraiche&theme=tokyonight" width="48%" >
-
-## 🌟 Most Used Weapons
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=molaraiche&show_icons=true&locale=en&layout=compact&theme=tokyonight)
-![github graph](https://github-readme-activity-graph.vercel.app/graph?username=molaraiche&theme=react-dark)
-
-## Connect with me:
-
-[![linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/mohamedlaraiche/)
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/molaraiche)
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
