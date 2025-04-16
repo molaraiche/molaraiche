@@ -6,9 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/molaraiche" target="blank"><img src="https://img.shields.io/twitter/follow/molaraiche?logo=twitter&style=for-the-badge" alt="molaraiche" /></a> </p>
 
-- 🔭 I’m currently working on [metablog](https://metablog.molaraiche.com/)
-
-- 🌱 I’m currently learning **Headless CMS**
 
 - 👨‍💻 All of my projects are available at [https://www.molaraiche.com/projects](https://www.molaraiche.com/projects)
 
