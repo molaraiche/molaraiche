@@ -18,17 +18,8 @@ If you're looking for a frontend developer who **writes clean code**, **ships fa
 
 - **[Dental](https://github.com/molaraiche/dentist-appointement)**  
   Dental appointment app with multilingual support, responsive layout, and SEO-focused structure.
-
+  
 ---
-
-### 🧰 Tech Stack
-
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=000)  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)  
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
-![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
----
-
 
 ### 📈 What I Focus On
 
@@ -38,6 +29,14 @@ If you're looking for a frontend developer who **writes clean code**, **ships fa
 - 🎯 Precision: Pixel-perfect UIs from Figma or design systems  
 - 🔗 API-Ready: Smooth integrations with Firebase, Stripe, Clerk, and more
 
+---
+
+### 🧰 Tech Stack
+
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
 ---
 
 ### 📬 Let's Connect
