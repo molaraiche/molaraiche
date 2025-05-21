@@ -1,42 +1,49 @@
-# 👋 Hi, I'm Mohamed
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+I'm+Mohamed;Frontend+Developer+(React%2FNext.js);I+Build+Fast+SEO-Friendly+Web+Apps)
 
-I'm a **Frontend Developer** who builds **fast**, **scalable**, and **SEO-friendly** web applications using **React.js**, **Next.js**, **TypeScript**, and **Tailwind CSS**.
+# ⚡ React / Next.js Developer – Speed, SEO & Scalability
 
----
+I build **fast**, **SEO-optimized**, and **scalable** web applications for startups, creatives, and online businesses.
 
-### 💻 What I Do
-
-- Build high-performance, maintainable frontends for startups and businesses
-- Turn UI/UX designs into pixel-perfect, responsive apps
-- Optimize pages for speed, SEO, and accessibility (Google Lighthouse 90+)
-- Deliver clean, modern code that scales
+If you're looking for a frontend developer who **writes clean code**, **ships fast**, and **solves real problems**, you're in the right place.
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 Tech Stack
 
-- **Languages:** TypeScript, JavaScript (ES6+)
-- **Frameworks:** React.js, Next.js (App Router)
-- **Styling:** Tailwind CSS, Shadcn UI
-- **Tools & Services:** Git, Firebase, Stripe, REST APIs
+![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=000)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)  
+![Stripe](https://img.shields.io/badge/-Stripe-008CDD?style=flat&logo=stripe&logoColor=fff)
 
 ---
 
-### 📦 Featured Projects
+### 🚀 Featured Projects
 
-- [**Beesound**](https://github.com/molaraiche/beesound) – E-commerce site with Stripe, Firebase, and admin dashboard
-- [**Oreen**](https://github.com/molaraiche/oreen) – Rental car app with booking system and full dashboard
-- [**Dental**](https://github.com/molaraiche/dental) – Appointment system with bilingual support and admin panel
+- **[Beesound](https://github.com/molaraiche/beesound)**  
+  E-commerce store built with Next.js, Tailwind, Stripe checkout, and Firebase. Fast, secure, and optimized for performance.
+
+- **[Oreen](https://github.com/molaraiche/oreen)**  
+  Car rental booking system with full admin dashboard, calendar views, and responsive UI.
+
+- **[Dental](https://github.com/molaraiche/dentist-appointement)**  
+  Dental appointment app with multilingual support, responsive layout, and SEO-focused structure.
+
+---
+
+### 📈 What I Focus On
+
+- ⚡ Performance: Fast load times, Core Web Vitals, optimized assets  
+- 🔍 SEO: Structured data, clean URLs, semantic HTML  
+- 🧱 Scalability: Reusable components, clean architecture, TypeScript  
+- 🎯 Precision: Pixel-perfect UIs from Figma or design systems  
+- 🔗 API-Ready: Smooth integrations with Firebase, Stripe, Clerk, and more
 
 ---
 
 ### 📬 Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/mohamedlaraiche)
-- 🌐 [Portfolio Website](https://molaraiche.com)
-- 📫 Reach me: laraichemohamed@gmail.com
-
----
-
-> “Clean code, fast delivery, and strong communication — that’s my workflow.”
-
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/)  
+- 💼 [Upwork](https://www.upwork.com/freelancers/~0189bb02bb4928f925)
+- 📧 [Collaborate](mailto:laraichemohamed@gmail.com)
