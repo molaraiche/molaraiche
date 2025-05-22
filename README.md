@@ -10,14 +10,11 @@ If you're looking for a frontend developer who **writes clean code**, **ships fa
 
 ### 🚀 Featured Projects
 
-- **[Beesound](https://github.com/molaraiche/beesound)**  
-  E-commerce store built with Next.js, Tailwind, Stripe checkout, and Firebase. Fast, secure, and optimized for performance.
+- **[Beesound](https://github.com/molaraiche/beesound)**: E-commerce store built with Next.js, Tailwind, Stripe checkout, and Firebase. Fast, secure, and optimized for performance.
 
-- **[Oreen](https://github.com/molaraiche/oreen)**  
-  Car rental booking system with full admin dashboard, calendar views, and responsive UI.
+- **[Oreen](https://github.com/molaraiche/oreen)**: Car rental booking system with full admin dashboard, calendar views, and responsive UI.
 
-- **[Dental](https://github.com/molaraiche/dentist-appointement)**  
-  Dental appointment app with multilingual support, responsive layout, and SEO-focused structure.
+- **[Dental](https://github.com/molaraiche/dentist-appointement)**: Dental appointment app with multilingual support, responsive layout, and SEO-focused structure.
   
 ---
 
