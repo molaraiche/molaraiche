@@ -1,20 +1,18 @@
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+I'm+Mohamed;Frontend+Developer+(React%2FNext.js);I+Build+Fast+SEO-Friendly+Web+Apps)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=800&size=18&pause=1000&color=1E90FF&background=050A1000&multiline=true&width=600&height=200&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BC%2C+Im+Mohamed)](https://git.io/typing-svg)
 
-# ⚡ React / Next.js Developer – Speed, SEO & Scalability
+# ⚡ Next.js Developer – Speed, SEO & Scalability
 
-I build **fast**, **SEO-optimized**, and **scalable** web applications for startups, creatives, and online businesses.
+I help e-commerce businesses and agencies build fast, high-performance websites using Next.js and Supabase, enabling them to enhance user experience and boost sales.
 
-If you're looking for a frontend developer who **writes clean code**, **ships fast**, and **solves real problems**, you're in the right place.
+If you're looking for a Web developer who **writes clean code**, **ships fast**, and **solves real problems**, you're in the right place.
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[Beesound](https://github.com/molaraiche/beesound)**: E-commerce store built with Next.js, Tailwind, Stripe checkout, and Firebase. Fast, secure, and optimized for performance.
+- **[Nexton](https://nexton.molaraiche.com/)**: E-commerce store built with Next.js, Tailwind, Stripe checkout, and Firebase. Fast, secure, and optimized for performance.
 
-- **[Oreen](https://github.com/molaraiche/oreen)**: Car rental booking system with full admin dashboard, calendar views, and responsive UI.
-
-- **[Dental](https://github.com/molaraiche/dentist-appointement)**: Dental appointment app with multilingual support, responsive layout, and SEO-focused structure.
+- **[Oreen](https://oreen.molaraiche.com/)**: Car rental booking system with full admin dashboard, calendar views, and responsive UI.
   
 ---
 
@@ -30,14 +28,14 @@ If you're looking for a frontend developer who **writes clean code**, **ships fa
 
 ### 🧰 Tech Stack
 
-![React](https://img.shields.io/badge/-React.js-61DAFB?style=flat&logo=react&logoColor=000)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)  
+![Supabase](https://img.shields.io/badge/-supabase-297251?style=flat&logo=supabase&logoColor=fff)  
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
 ---
 
 ### 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/)  
-- 💼 [Upwork](https://www.upwork.com/freelancers/~0189bb02bb4928f925)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/)
 - 📧 [Collaborate](mailto:laraichemohamed@gmail.com)
+- 🎨 [Portfolio](https://www.molaraiche.com/)
