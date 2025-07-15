@@ -33,6 +33,4 @@ If you're looking for a Web developer who **writes clean code**, **ships fast**,
 
 ### 📬 Let's Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/)
-- 📧 [Collaborate](mailto:laraichemohamed@gmail.com)
-- 🎨 [Portfolio](https://www.molaraiche.com/)
+🔗 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/) - 📧 [Collaborate](mailto:laraichemohamed@gmail.com) - 🎨 [Portfolio](https://www.molaraiche.com/)
