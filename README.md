@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=800&size=18&pause=1000&color=1E90FF&background=050A1000&multiline=true&width=600&height=200&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BC%2C+Im+Mohamed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=800&size=36&pause=1000&color=1E90FF&background=050A1000&multiline=true&width=600&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BC%2C+Im+Mohamed)](https://git.io/typing-svg)
 
 # ⚡ Next.js Developer – Speed, SEO & Scalability
 
