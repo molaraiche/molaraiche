@@ -1,36 +1,49 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=800&size=36&pause=1000&color=1E90FF&background=050A1000&multiline=true&width=600&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BC%2C+Im+Mohamed)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=800&size=36&pause=1000&color=1E90FF&background=050A1000&multiline=true&width=600&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Mohamed)](https://git.io/typing-svg)
 
-# ⚡ Next.js Developer – Speed, SEO & Scalability
+# ⚡ Frontend Developer – React / Next.js Specialist
 
-I help e-commerce businesses and agencies build fast, high-performance websites using Next.js and Supabase, enabling them to enhance user experience and boost sales.
+I’m Mohamed, a self-taught Frontend Developer focused on building fast, scalable, and accessible web applications using modern tools like **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-If you're looking for a Web developer who **writes clean code**, **ships fast**, and **solves real problems**, you're in the right place.
+If you're looking for someone who **writes clean, maintainable code** and **delivers real-world solutions** — you're in the right place.
 
 ---
 
 ### 🚀 Featured Projects
 
-- **[Nexton](https://nexton.molaraiche.com/)**: E-commerce store built with Next.js, Tailwind, Stripe checkout, and Firebase. Fast, secure, and optimized for performance.
+- 🔹 **[Nexton](https://nexton.molaraiche.com/)** – A full e-commerce platform with product filters, cart system, Stripe checkout, and Firebase backend  
+- 🔹 **[Oreen](https://oreen.molaraiche.com/)** – Car rental app with admin dashboard, booking logic, and responsive layout  
+- 🔹 **[Dental](https://dental.molaraiche.com/)** – Multilingual appointment system with real-time dashboard and i18n support
 
-- **[Oreen](https://oreen.molaraiche.com/)**: Car rental booking system with full admin dashboard, calendar views, and responsive UI.
-  
 ---
 
-### 📈 What I Focus On
+### 🛠️ What I Deliver
 
-- ⚡ Performance: Fast load times, Core Web Vitals, optimized assets  
-- 🔍 SEO: Structured data, clean URLs, semantic HTML  
-- 🧱 Scalability: Reusable components, clean architecture, TypeScript  
-- 🎯 Precision: Pixel-perfect UIs from Figma or design systems  
-- 🔗 API-Ready: Smooth integrations with Firebase, Stripe, Clerk, and more
+- ⚡ **Performance**: Fast load times, Core Web Vitals optimization  
+- 🔍 **SEO**: Clean URLs, semantic HTML, metadata, sitemap  
+- 🧱 **Scalability**: Reusable components, modular structure, TypeScript  
+- 🎯 **Precision**: Pixel-perfect UI based on Figma or custom design systems  
+- 🔗 **Integration**: Firebase, Supabase, Stripe, GraphQL, Clerk, and more
 
 ---
 
 ### 🧰 Tech Stack
 
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)  ![Supabase](https://img.shields.io/badge/-supabase-297251?style=flat&logo=supabase&logoColor=fff) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=fff)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=000)  
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=fff)  
+![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat&logo=supabase&logoColor=fff)  
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=000)
+
 ---
 
-### 📬 Let's Connect
+### 📫 Let’s Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/) - 📧 [Collaborate](mailto:laraichemohamed@gmail.com) - 🎨 [Portfolio](https://www.molaraiche.com/)
+- 🔗 [Portfolio](https://www.molaraiche.com/)  
+- 📧 [laraichemohamed@gmail.com](mailto:laraichemohamed@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/)
+
+---
+
+> 💡 *Currently seeking full-time frontend roles (Remote or Morocco-based)*  
+> Let's build something impactful together.
