@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Quicksand&weight=800&size=36&pause=1000&color=1E90FF&background=050A1000&multiline=true&width=600&lines=Hello+There%F0%9F%91%8B%F0%9F%8F%BC%2C+I'm+Mohamed)](https://git.io/typing-svg)
 
-# ⚡ Frontend Developer – React / Next.js Specialist
+# ⚡ Frontend Developer – React / Next.js Developer
 
 I’m Mohamed, a self-taught Frontend Developer focused on building fast, scalable, and accessible web applications using modern tools like **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
