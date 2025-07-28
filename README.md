@@ -10,9 +10,9 @@ If you're looking for someone who **writes clean, maintainable code** and **deli
 
 ### 🚀 Featured Projects
 
-- 🔹 **[Nexton](https://nexton.molaraiche.com/)** – A full e-commerce platform with product filters, cart system, Stripe checkout, and Firebase backend  
-- 🔹 **[Oreen](https://oreen.molaraiche.com/)** – Car rental app with admin dashboard, booking logic, and responsive layout  
-- 🔹 **[Dental](https://dental.molaraiche.com/)** – Multilingual appointment system with real-time dashboard and i18n support
+🔹 **[Nexton](https://nexton.molaraiche.com/)** – A full e-commerce platform with product filters, cart system, Stripe checkout, and Firebase backend  
+🔹 **[Oreen](https://oreen.molaraiche.com/)** – Car rental app with admin dashboard, booking logic, and responsive layout  
+🔹 **[Dental](https://dental.molaraiche.com/)** – Multilingual appointment system with real-time dashboard and i18n support
 
 ---
 
