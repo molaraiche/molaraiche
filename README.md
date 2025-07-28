@@ -34,9 +34,7 @@ If you're looking for someone who **writes clean, maintainable code** and **deli
 
 ### 📫 Let’s Connect
 
-- 🔗 [Portfolio](https://www.molaraiche.com/)  
-- 📧 [laraichemohamed@gmail.com](mailto:laraichemohamed@gmail.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/)
+🔗 [Portfolio](https://www.molaraiche.com/) | 📧 [laraichemohamed@gmail.com](mailto:laraichemohamed@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/)
 
 ---
 
