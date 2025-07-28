@@ -4,7 +4,7 @@
 
 I’m Mohamed, a self-taught Frontend Developer focused on building fast, scalable, and accessible web applications using modern tools like **Next.js**, **TypeScript**, and **Tailwind CSS**.
 
-If you're looking for someone who **writes clean, maintainable code** and **delivers real-world solutions** — you're in the right place.
+If you're looking for someone who **writes clean, maintainable code** and **delivers real-world solutions**, you're in the right place.
 
 ---
 
