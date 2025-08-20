@@ -18,9 +18,7 @@ I love building clean, performant websites that make a real impact. My goal is t
 ---
 
 ### 🤝 Let’s Connect
-- [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/)
-- [Portfolio](https://www.mohamedlaraiche.com/en)  
-- [X (Twitter)](https://x.com/molaraiche)  
+- [LinkedIn](https://www.linkedin.com/in/mohamedlaraiche/) - [Portfolio](https://www.mohamedlaraiche.com/en)  - [X (Twitter)](https://x.com/molaraiche)  
 
 ---
 
